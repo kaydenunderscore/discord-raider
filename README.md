@@ -1,0 +1,2 @@
+# discord-raider
+raids any discord server
